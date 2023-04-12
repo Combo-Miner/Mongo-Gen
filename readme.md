@@ -25,7 +25,7 @@ Check out this video to see the bot in action: [Link to Video Demo](https://yout
 
 ## Whitelist Your IP
 To get acces to the mongo API you will have to whitelist your IP address.
-![GIF](https://imgur.com/82PRKGC)
+![GIF](https://imgur.com/82PRKGC.gif)
 
 ## Contributors
 
