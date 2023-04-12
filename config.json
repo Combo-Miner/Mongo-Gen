@@ -1,7 +1,7 @@
 {
     "token" : "",
     "prefix" : "+",
-    "private_key" : "b",
+    "private_key" : "",
     "public_key" : "",
     "org_Id" : "",
     "owners" : [""]
