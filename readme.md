@@ -17,7 +17,7 @@ To use this bot, you will need to have [Node.js](https://nodejs.org/en/) and [Mo
 
 ## Usage
 
-Once the bot is running, you can use it in your Discord server by typing the command `+genurl <base_url>`. The bot will generate a unique URL using the provided base URL and store it in the MongoDB database. The bot will then send the generated URL back to the user who issued the command.
+Once the bot is running, you can use it in your Discord server by typing the command `/gen`. The bot will generate a unique mongo URL. The bot will then send the generated URL back to the user who issued the command.
 
 ## Video Demo
 
